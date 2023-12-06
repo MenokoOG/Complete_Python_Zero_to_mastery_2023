@@ -1,0 +1,5 @@
+email, subject, message
+testo@any.com, testo, this is a testo
+just@flake.com, hello, hello
+heckyeah@any.com, steso2, this is another test
+, , 
